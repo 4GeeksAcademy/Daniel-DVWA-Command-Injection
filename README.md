@@ -4,7 +4,7 @@ Created: February 5, 2024 10:48 AM
 
 ## **Introdução à Injeção de Comandos**
 
-- A injeção de comandos, em sua essência, consiste na inserção de um comando personalizado dentro de um comando já existente
+- A injeção de comandos, tem como foco a inserção de um comando personalizado dentro de um comando já existente
 - Em testes mais simples, é comum usar caracteres especiais para inserir nosso comando
 - Para fazer esses testes precisamos conhecer os caracteres especiais que podem ser usados no Linux
 - Caracteres Especiais
