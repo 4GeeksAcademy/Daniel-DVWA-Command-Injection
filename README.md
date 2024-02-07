@@ -39,7 +39,7 @@ Created: February 5, 2024 10:48 AM
     ---
     
     - **"`" (crase)**
-        - Exemplo: `echo `whoami``
+        - Exemplo: `echo whoami`
         - Também conhecido como backtick, é semelhante a `$()`. Permite a execução de comandos dentro das crases, e o resultado é substituído na linha de comando original.
     
     ---
