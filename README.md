@@ -73,7 +73,7 @@ Created: February 5, 2024 10:48 AM
     
     ---
     
-    - \
+    - "\"
         - Exemplo: `echo \$(whoami)`
         - Se a aplicação não escapar corretamente a entrada do usuário, um atacante pode usar a barra invertida para escapar o caractere `$` e realizar a substituição de comando.
 
