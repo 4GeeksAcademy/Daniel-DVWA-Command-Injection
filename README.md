@@ -61,7 +61,7 @@ Created: February 5, 2024 10:48 AM
     
     ---
     
-    - * ? []
+    - ? * []
         - Exemplo: `cat /etc/passwd*`
         - Se a entrada não for tratada corretamente, caracteres curinga podem ser explorados para corresponder a vários arquivos.
     
